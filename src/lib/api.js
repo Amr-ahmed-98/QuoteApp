@@ -1,4 +1,4 @@
-const emailConfig = 'https://quote-app-8d80d-default-rtdb.firebaseio.com';
+const emailConfig = 'https://quote-app-c9c9d-default-rtdb.firebaseio.com/';
 export const getAllQuotes = async () => {
   const response = await fetch(`${emailConfig}/quotes.json`);
   const responseData = await response.json();
