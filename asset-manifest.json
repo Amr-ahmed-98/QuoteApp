@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/QuoteApp/static/css/main.08a746ca.css",
-    "main.js": "/QuoteApp/static/js/main.f35b4a3a.js",
-    "index.html": "/QuoteApp/index.html",
-    "main.08a746ca.css.map": "/QuoteApp/static/css/main.08a746ca.css.map",
-    "main.f35b4a3a.js.map": "/QuoteApp/static/js/main.f35b4a3a.js.map"
+    "main.css": "/static/css/main.08a746ca.css",
+    "main.js": "/static/js/main.f35b4a3a.js",
+    "index.html": "/index.html",
+    "main.08a746ca.css.map": "/static/css/main.08a746ca.css.map",
+    "main.f35b4a3a.js.map": "/static/js/main.f35b4a3a.js.map"
   },
   "entrypoints": [
     "static/css/main.08a746ca.css",
